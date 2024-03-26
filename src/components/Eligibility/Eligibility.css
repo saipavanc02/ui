@@ -1,0 +1,29 @@
+.eg-container{
+    display: flex;
+    margin-top: 10px;
+}
+.eg-cards{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 70px;
+    padding: 10px;
+    width: 20vw;
+    border-top: navy 5px solid;
+    border-color: navy;
+    border-style: solid;
+    box-sizing: content-box;
+    margin: 10px;
+}
+.eg-headings{
+    
+    margin-bottom: 0;
+}
+.alignments{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0%;
+}

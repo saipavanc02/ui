@@ -1,0 +1,19 @@
+.main-container{
+    background-color: aliceblue;
+    padding: 30px;
+}
+.text-container{
+    width: 50vw;
+    text-align: left;
+}
+.card-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cards{
+    border-radius: 10px;
+    border-width: 5px;
+    border-color: black;
+    height: 50px;
+}

@@ -1,0 +1,20 @@
+.why-cards-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.why-cards{
+    width: 250px;
+    padding: 30px;
+    background-color: aliceblue;
+    height: 250px;
+    margin-right: 15px;
+    
+}
+
+.span-line{
+    text-decoration: underline;
+    
+    width: 2px;
+    margin-top: 5px;
+}

@@ -1,0 +1,26 @@
+.header{
+    background-color: navy;
+    height: 40px;
+    width: 100vw;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.login-signup{
+    background-color: azure;
+    height: 25px;
+    border-radius: 5px;
+    color: navy;
+    box-sizing: border-box;
+    padding: 2px;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list-items{
+    margin-left: 30px;
+}
